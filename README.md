@@ -1,4 +1,4 @@
-# Olympic-Games-Dashboard
+# Olympic games medal table analysis
 This data analysis project focuses on the Olympic Games, examining the number of competitors and medals awarded in each edition of the event. The project was conducted using a variety of tools and techniques, including SQL Server for data transformation and Power BI for visualization.
 
 Before building the Power BI dashboard, I used SQL Server to perform data transformations on the Olympic Games dataset. This involved cleaning and filtering the data to ensure accuracy and consistency, as well as preparing it for use in Power BI. Once the data was transformed, I built a Power BI dashboard to visualize the data and identify insights.
